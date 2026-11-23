@@ -4,6 +4,6 @@ Aktuální čísla verzí doplňků Archicadu ardit. Doplněk si po startu načt
 
 | Doplněk | Soubor | Stažení |
 |---|---|---|
-| Kótování otvorů a parapetů | `kotovani-otvoru.json` | [www.ardit.cz/kotovani](https://www.ardit.cz/kotovani) |
+| Kótování parapetů | `kotovani-parapetu.json` | [www.ardit.cz/kotovani](https://www.ardit.cz/kotovani) |
 
 Číslo se přepisuje až po zveřejnění nové verze ke stažení.
